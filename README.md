@@ -30,7 +30,7 @@
 
 
 ### Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudhaKarRanji)](https://github.com/SudhaKarRanji/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudhaKarRanji&theme=cobalt)](https://github.com/SudhaKarRanji/github-readme-stats) 
 
 
 
