@@ -9,8 +9,9 @@
 - 🌱 I’m currently learning MERN stack and Pentreating testing
 - 👯 I’m looking to collaborate on Security related projects 
 - ⚡ Fun fact: Cricket and Swimming
+### <img src="https://komarev.com/ghpvc/?username=SudhaKarRanji&label=Profile%20views&color=129e00&style=plastic" alt="SudhaKarRanji" />
 
-### Technolgy Used
+### :zap: Technolgy Used
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -21,7 +22,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![FireBae](https://img.shields.io/badge/-FireBase-181717?style=flat-square&logo=firebase)
-### Stack used
+### :zap: Stack used
 ![](https://img.shields.io/badge/Java-Spring_Boot-blueviolet)  ![](https://img.shields.io/badge/JavaScript-MERN-blueviolet)
 ### OS used
 ![Linux](https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux) 
@@ -29,12 +30,12 @@
 ![Linux](https://img.shields.io/badge/-Windows-430098?style=flat-square&logo=windows) 
 
 
-### Language Stats
+### :zap: Language Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudhaKarRanji&theme=cobalt)](https://github.com/SudhaKarRanji/github-readme-stats) 
 
 
 
-### My stats on Github
+### :zap: My stats on Github
 ![Sudhakar GitHub stats](https://github-readme-stats.vercel.app/api?username=SudhaKarRanji&show_icons=true&theme=algolia)
 
 ### To reach
