@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working as Full Stack Intern
-- 🌱 I’m currently learning MERN stack and Pentreating testing
+- 🌱 I’m currently learning MERN stack and Penetration testing
 - 👯 I’m looking to collaborate on Security related projects 
 - ⚡ Fun fact: Cricket and Swimming
 ### <img src="https://komarev.com/ghpvc/?username=SudhaKarRanji&label=Profile%20views&color=129e00&style=plastic" alt="SudhaKarRanji" />
