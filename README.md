@@ -20,13 +20,13 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Heroku](https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=netlify)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![FireBae](https://img.shields.io/badge/-FireBase-181717?style=flat-square&logo=firebase)
 ### :zap: Stack used
 ![](https://img.shields.io/badge/Java-Spring_Boot-blueviolet)  ![](https://img.shields.io/badge/JavaScript-MERN-blueviolet)
 ### OS used
 ![Linux](https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux) 
-
 ![Linux](https://img.shields.io/badge/-Windows-430098?style=flat-square&logo=windows) 
 
 
