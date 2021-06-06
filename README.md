@@ -10,7 +10,8 @@
 - 👯 I’m looking to collaborate on Security related projects 
 - ⚡ Fun fact: Cricket and Swimming
 ### <img src="https://komarev.com/ghpvc/?username=SudhaKarRanji&label=Profile%20views&color=129e00&style=plastic" alt="SudhaKarRanji" />
-
+### Current Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SudhaKarRanji&theme=blue-green&hide_border=true&currStreakNum=DD2727)](https://git.io/streak-stats)
 ### :zap: Technolgy Used
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
