@@ -22,6 +22,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Heroku](https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=netlify)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![express](https://img.shields.io/badge/-Express-430098?style=flat-square&logo=express)
 ![FireBae](https://img.shields.io/badge/-FireBase-181717?style=flat-square&logo=firebase)
 ### :zap: Stack used
 ![](https://img.shields.io/badge/Java-Spring_Boot-blueviolet)  ![](https://img.shields.io/badge/JavaScript-MERN-blueviolet)
