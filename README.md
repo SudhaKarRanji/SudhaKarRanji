@@ -30,7 +30,11 @@
 ### OS used
 ![Linux](https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux) 
 ![Linux](https://img.shields.io/badge/-Windows-430098?style=flat-square&logo=windows) 
-
+### :zap: Tools used
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code)
+![pycharm](https://img.shields.io/badge/pycharm-143?style=flat-sqyare&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![FireBae](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![](https://img.shields.io/badge/Postman-2C2255?style=flat-square&logo=postman&logoColor=green)
 
 ### :zap: Language Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudhaKarRanji&theme=cobalt)](https://github.com/SudhaKarRanji/github-readme-stats) 
