@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning MERN stack and Penetration testing
 - 👯 I’m looking to collaborate on Security related projects 
 - ⚡ Fun fact: Cricket and Swimming
-- 🎮 Games: Call of Duty,PUBG
+- 🎮 Games: Call of Duty
 ### <img src="https://komarev.com/ghpvc/?username=SudhaKarRanji&label=Profile%20views&color=129e00&style=plastic" alt="SudhaKarRanji" />
 ### Fav Quote
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fantasy&color=F7A113&size=25&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%E5%B7%B2%E7%9F%A5%E7%9A%84%E6%81%B6%E9%AD%94%E8%83%9C%E8%BF%87%E6%9C%AA%E7%9F%A5%E7%9A%84%E7%A5%9E;%F0%9F%98%88+Known+devil+is+better+than+unknow+God+%F0%9F%94%B1)](https://git.io/typing-svg)
