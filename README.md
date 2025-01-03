@@ -19,6 +19,7 @@
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node-dot-js)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -32,6 +33,7 @@
 ![FireBae](https://img.shields.io/badge/-FireBase-181717?style=flat-square&logo=firebase)
 ### :zap: Stack used
 ![](https://img.shields.io/badge/Java-Spring_Boot-blueviolet)  ![](https://img.shields.io/badge/JavaScript-MERN-blueviolet)
+![](https://img.shields.io/badge/C#-Desktop-blueviolet)
 ### OS used
 ![Linux](https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux) 
 ![Linux](https://img.shields.io/badge/-Windows-430098?style=flat-square&logo=windows) 
@@ -52,10 +54,10 @@
 
 ### To reach
 <a href="https://twitter.com/prince_ranji">
-  <img align="left" alt="Sudhakar Ranjith | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Sudhakar Ranjith | Twitter" width="64px" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/sudhakar-b-0837b2156/">
-  <img align="left" alt="Sudhakar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Sudhakar Ranjith | Linkedin width="22px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 
